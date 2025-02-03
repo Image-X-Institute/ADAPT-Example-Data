@@ -9,3 +9,5 @@ The ITV contour is shown in yellow, spine canal contour in blue (these contours 
 Note that the contours are directly from the planning CT and the patients have not neccesarily been aligned.
 
 Each case is supposed to be representative of the study cohort, plus the worst STO200 image as quantified by CNR.
+
+The file "simplestats.m" includes the underlying data and plotting code for some summary statistics/plots.
