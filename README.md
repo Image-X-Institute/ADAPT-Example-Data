@@ -1,6 +1,6 @@
 # ADAPT Example Data
 
-Animated GIFs looking at 4D tomographs through the middle of the ITV.
+Animated GIFs looking at 4D tomographs through the middle of the ITV, and an appendix to the 2025 communications engineering article as a word file.
 
 Note that each "case" contains conventional (1320 projections over 240 seconds), STO600 (adaptive acquisition conventional reconstruction, 600 projections over 60 breaths) and STO200 (adaptive acquisition adaptive reconstruction, 200 projections over 20 breaths) images. Each case needs to be extracted from .zip seperately.
 
