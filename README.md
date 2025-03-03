@@ -11,3 +11,10 @@ Note that the contours are directly from the planning CT and the patients have n
 Each case is supposed to be representative of the study cohort, plus the worst STO200 image as quantified by CNR.
 
 The file "simplestats.m" includes the underlying data and plotting code for some summary statistics/plots.
+
+The "ADAPTcodes.zip" folder contains the matlab scripts used to perform the image reconstruction in the ADAPT study. Note these algorithms are implemented as calls to the elastix toolkit and Reconstruction Tool Kit (RTK) to do all the heavy lifting:
+
+https://elastix.dev/
+
+https://www.openrtk.org/
+
